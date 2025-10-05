@@ -54,8 +54,8 @@ Membuat aplikasi React bertemakan “Aplikasi Forum Diskusi” yang memanfaatkan
 ### 🚀 Instalasi
 1. Clone Repository
 ```bash
-git clone https://github.com/irfannuarym/react-redux-app.git
-cd react-redux-app
+git clone https://github.com/irfannuarym/forum-app.git
+cd forum-app
 ```
 2. Install Dependencies
 ```bash
